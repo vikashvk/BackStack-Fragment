@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Back Stack</string>
+    <string name="pehla">Click me First!</string>
+    <string name="doosra">Now click me</string>
+    <string name="teesra">Try to destroy me</string>
+
+</resources>
